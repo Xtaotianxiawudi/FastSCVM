@@ -24,7 +24,7 @@ Take Drishti-GS for example: Split the downloaded dataset into training, test, a
 ../dataset/fundus/gdrishtiGS/val/ROIs/...
 ```
 # **3. FastSCVM** </br>
-Before starting training, you can directly run FastSCVM3_New.py to verify that the environment is correctly installed — the terminal will immediately output the number of parameters and computational cost (FLOPs) of FastSCVM.
+Before starting training, you can directly run FastSCVM3_New.py to verify that the environment is correctly installed — the terminal will immediately output the number of parameters and computational cost (FLOPs) of FastSCVM.Additionally, UltraLight_VM_UNet.py and LightM_UNet.py can also be run directly. These two are variants of the Mamba structure and can be compared with FastSCVM through training.
 ```
 python3 FastSCVM3_New.py
 ```
