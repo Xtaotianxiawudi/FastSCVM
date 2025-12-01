@@ -1,0 +1,3 @@
+After run "train.py"
+the file structure:
+"the dataset you chose (for example : gdrishtiGS)"---"the time you first train (for example :20250922_144757.981029 )"---the trained checkpoint

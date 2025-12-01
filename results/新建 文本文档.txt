@@ -1,0 +1,5 @@
+After run "test2.py"
+This folder is structured as follows:
+baseline
+ent
+mask
